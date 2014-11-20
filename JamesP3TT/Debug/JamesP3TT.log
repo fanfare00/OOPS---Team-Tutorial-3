@@ -1,0 +1,16 @@
+﻿Build started 11/20/2014 2:47:35 AM.
+     1>Project "c:\Users\james\documents\visual studio 2013\Projects\JamesP3TT\JamesP3TT\JamesP3TT.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\\" /AI"C:\Program Files (x86)\Windows Kits\8.1\References\CommonConfiguration\Neutral" /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\Facades\\" /Zi /clr /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _UNICODE /D UNICODE /EHa /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /TP /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\mscorlib.dll" /analyze- /errorReport:prompt /clr:nostdlib JamesP3TT.cpp
+         JamesP3TT.cpp
+     1>JamesP3TT.cpp(224): warning C4018: '<' : signed/unsigned mismatch
+     1>JamesP3TT.cpp(242): warning C4018: '<' : signed/unsigned mismatch
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"c:\users\james\documents\visual studio 2013\Projects\JamesP3TT\Debug\JamesP3TT.exe" /INCREMENTAL /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"c:\users\james\documents\visual studio 2013\Projects\JamesP3TT\Debug\JamesP3TT.pdb" /ASSEMBLYDEBUG /TLBID:1 /DYNAMICBASE /FIXED:NO /NXCOMPAT /MACHINE:X86 Debug\JamesP3TT.obj
+         "Debug\.NETFramework,Version=v4.5.AssemblyAttributes.obj"
+         JamesP3TT.vcxproj -> c:\users\james\documents\visual studio 2013\Projects\JamesP3TT\Debug\JamesP3TT.exe
+     1>Done Building Project "c:\Users\james\documents\visual studio 2013\Projects\JamesP3TT\JamesP3TT\JamesP3TT.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.09
